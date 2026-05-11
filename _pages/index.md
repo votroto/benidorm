@@ -4,8 +4,7 @@ permalink: /
 title: Benidorm
 subtitle: 3 Calle del Médico Don Miguel Martorell
 ---
-
-[Booking](https://trevlix.cz){: .link-button}
+[Booking](https://book.trevlix.com/book/app/?cid=5417156&mode=window){: .link-button}
 [Map]({{ site.location-mapy }}){: .link-button}
 
 Donec et eros ac tortor condimentum euismod. Cras sed neque odio. Nam tortor lectus, auctor ac molestie non, sodales eu ante. Pellentesque vulputate arcu vel efficitur sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse nec enim sit amet neque placerat iaculis imperdiet nec nunc. Sed finibus aliquet mauris ut egestas. Integer tempor leo ac nibh laoreet, non gravida ante fermentum. In sit amet rutrum nibh, ac volutpat neque. Morbi eu massa sapien. Curabitur ultricies dapibus tellus. Mauris tempus dapibus tortor ac hendrerit. Vestibulum vitae augue sit amet risus ullamcorper gravida. Morbi euismod massa erat, consectetur tempor lacus luctus vitae.
