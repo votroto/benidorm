@@ -1,0 +1,13 @@
+{% assign image_id = include.large | md5 %}
+
+<button class="thumb" popovertarget="img{{ image_id }}">
+  <img src="{{ include.small }}">
+</button>
+
+<div id="img{{ image_id }}" popover>
+  <button class="backdrop-close" popovertarget="img{{ image_id }}" popovertargetaction="hide"></button>
+  <div class="viewer">
+    <button class="close-btn" popovertarget="img{{ image_id }}" popovertargetaction="hide">×</button>
+    <img src="{{ include.large }}" loading="lazy">
+  </div>
+</div>
