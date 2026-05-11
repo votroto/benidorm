@@ -1,0 +1,4 @@
+name = "benidorm"
+
+[assets]
+directory = "./_site/"

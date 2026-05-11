@@ -2,7 +2,11 @@ title: Benidorm
 url: ""
 assets: "https://www.penzionspaleniste.cz/benidorm/"
 
+location-mapy: "https://mapy.com/s/gehahekeme"
 location-osm: "https://osm.org/go/b7743ODo--?m=&node=13302360591"
 
 include:
  - _pages
+
+exclude:
+  - wrangler.toml
